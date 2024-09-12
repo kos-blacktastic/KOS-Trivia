@@ -30,7 +30,7 @@
 </div>
 
 <div>
-   <img style="margin-left: 300px" src="./app-screenshots/home2.png" width="300"/>
+   <img style="margin-left: 300px" src="./app-screenshots/home22.jpeg" width="300"/>
   <img style="margin-left: 300px" src="./app-screenshots/question3.jpeg" width="300"/>
 </div>
 
