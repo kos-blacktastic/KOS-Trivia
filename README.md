@@ -3,7 +3,9 @@
   <br><br>
 </div>
 
-# Welcome to Knowledge of Self Trivia!    
+# Welcome to Knowledge of Self Trivia!  
+
+### Laugh and learn as you venture through Black history and culture ranging from Black music, scholars, sayings/doings, movies, activists, inventors, and more!
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <table style="border-collapse: collapse; border: none;">
@@ -22,7 +24,15 @@
   </table>
 </div>
 
-### Laugh and learn as you venture through Black history and culture ranging from Black music, scholars, sayings/doings, movies, activists, inventors, and more!
+# How to download
+
+ - Find and click the `GET IT ON GITHUB` button
+ - Under `ASSETS`, find and download `kos_1.1.5.apk` to your Android device
+ - Once downloaded, go to your `Downloads Folder` and find `kos_1.1.5.apk` and click to install
+   - Note: you may have to change security permissions to install apps from sources other than Google Play Store
+   - Here is more infomation: https://www.howtogeek.com/313433/how-to-sideload-apps-on-android/
+
+# Screenshots
 
 <div>
   <img style="margin-left: 300px" src="./app-screenshots/splash.png" width="300"/>
@@ -38,11 +48,3 @@
   <img style="margin-left: 300px" src="./app-screenshots/question6.jpeg" width="300"/>
   <img style="margin-left: 300px" src="./app-screenshots/results.jpeg" width="300"/>
 </div>
-
-# How to download
-
- - Find and click the `GET IT ON GITHUB` button at the top of this page
- - Under `ASSETS`, find and download `kos_1.1.5.apk` to your Android device
- - Once downloaded, go to your `Downloads Folder` and find `kos_1.1.5.apk` and click to install
-   - Note: you may have to change security permissions to install apps from sources other than Google Play Store
-   - Here is more infomation: https://www.howtogeek.com/313433/how-to-sideload-apps-on-android/
