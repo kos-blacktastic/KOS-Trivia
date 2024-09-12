@@ -11,12 +11,12 @@
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none; padding-right: 10px;">
-        <a href='https://github.com/kos-blacktastic/kos-flutter/releases/latest'>
+        <a href='https://github.com/kos-blacktastic/KOS-Trivia/releases/latest'>
           <img alt='Get it on Github' src='https://raw.githubusercontent.com/ismartcoding/plain-app/main/assets/get-it-on-github.png' height='80px'/>
         </a>
       </td>
       <td style="border: none;">
-        <a href="https://github.com/kos-blacktastic/kos-flutter/releases/latest">
+        <a href="https://github.com/kos-blacktastic/KOS-Trivia/releases/latest">
           <img src="https://img.shields.io/github/downloads/BrianJr03/Issa-Recipe-App/total.svg" alt="Github All Releases" />
         </a>
       </td>
