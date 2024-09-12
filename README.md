@@ -26,7 +26,7 @@
 
 # How to download
 
- - Find and click the `GET IT ON GITHUB` button
+ - Find and click the `GET IT ON GitHub` button
  - Under `ASSETS`, find and download `kos_1.1.5.apk` to your Android device
  - Once downloaded, go to your `Downloads Folder` and find `kos_1.1.5.apk` and click to install
    - Note: you may have to change security permissions to install apps from sources other than Google Play Store
